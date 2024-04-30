@@ -13,4 +13,5 @@ pandoc
 pypandoc
 tqdm
 sentence_transformers
-#llama-cpp-python
+docx2txt
+llama-cpp-python

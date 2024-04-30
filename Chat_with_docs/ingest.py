@@ -16,6 +16,7 @@ from langchain_community.document_loaders import (
     UnstructuredODTLoader,
     UnstructuredPowerPointLoader,
     UnstructuredWordDocumentLoader,
+    Docx2txtLoader,
     JSONLoader,
 )
 import json
@@ -29,9 +30,9 @@ from constants import CHROMA_SETTINGS
 
 # Variáveis de ambiente
 persist_directory = os.environ.get('PERSIST_DIRECTORY',
-                                  'G:/Meu Drive/PersonalProj/GitHub/Private_chat_ollama/Private_Chat_Ollama/2-ollama-privateGPT-chat-with-docs/db')
+                                  'G:/Meu Drive/PersonalProj/GitHub/Chat_with_docs/db')
 source_directory = os.environ.get('SOURCE_DIRECTORY', 
-                                  'G:/Meu Drive/PersonalProj/GitHub/Private_chat_ollama/Private_Chat_Ollama/2-ollama-privateGPT-chat-with-docs/source_documents')
+                                  'G:/Meu Drive/PersonalProj/GitHub/Chat_with_docs/source_documents')
 embeddings_model_name = os.environ.get('EMBEDDINGS_MODEL_NAME', 'all-MiniLM-L6-v2')
 chunk_size = 500
 chunk_overlap = 50
@@ -62,9 +63,9 @@ class MyElmLoader(UnstructuredEmailLoader):
 # Mapa de extensão de arquivos com seus métidos de carregamento e argumentos
 LOADER_MAPPING = {
     ".csv": (CSVLoader, {}),
-    # ".docx": (Docx2txtLoader, {}),
+    ".docx": (Docx2txtLoader, {}),
     ".doc": (UnstructuredWordDocumentLoader, {}),
-    ".docx": (UnstructuredWordDocumentLoader, {}),
+    #".docx": (UnstructuredWordDocumentLoader, {}),
     ".enex": (EverNoteLoader, {}),
     ".eml": (MyElmLoader, {}),
     ".epub": (UnstructuredEPubLoader, {}),
