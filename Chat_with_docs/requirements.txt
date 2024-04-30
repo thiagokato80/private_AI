@@ -1,0 +1,16 @@
+##### Bibliotecas requeridas - versão não espeficicada
+langchain
+langchain-community
+gpt4all
+chromadb
+urllib3
+PyMuPDF
+python-dotenv
+unstructured
+extract-msg
+tabulate
+pandoc
+pypandoc
+tqdm
+sentence_transformers
+#llama-cpp-python

@@ -1,0 +1,211 @@
+{
+    "public_identifier": "thiago-seiki-kato-93a12b",
+    "profile_pic_url": "https://media.licdn.com/dms/image/D4E03AQEXD_-gbRlHjA/profile-displayphoto-shrink_200_200/0/1709215696125?e=1719446400&v=beta&t=WTaWwGb-WCRx1rEc4jwJWBu6jXPlKPNlNbbYJK8ocGo",
+    "first_name": "Thiago Seiki",
+    "last_name": "Kato",
+    "full_name": "Thiago Seiki Kato",
+    "follower_count": 1297,
+    "occupation": "Data Specialist",
+    "headline": "Business Administrator",
+    "summary": "With more than 12 years of consulting experience, I have had the opportunity to develop projects\nat different operational and strategic levels in national and international companies in various\nsectors. Additionally, I have also been an entrepreneur in the craft beer and brewpub market for\nover 5 years. This unique experience has given me skills in entrepreneurship, leadership, financial\nmanagement, marketing, and product development that I apply in my current role.\nCurrently, I work as a project manager in process automation, where I apply my experience in\nconsulting and entrepreneurship to deliver high-impact results for my clients. I am passionate\nabout teamwork and always looking to learn and apply new knowledge to improve my\nperformance and contribute to the success of the companies and people involved.",
+    "country_full_name": "Brazil",
+    "city": "Sao Paulo",
+    "state": "Sao Paulo",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2023
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2024
+            },
+            "company": "Advision Consulting",
+            "title": "Data Specialist"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2023
+            },
+            "company": "eztools",
+            "title": "Project Manager / BPMS and RPA Solution Architect",
+            "description": "Project management and solution design for BPMS and RPA development.",
+            "location": "Sao Paulo, Brasil"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2022
+            },
+            "company": "What's on Tap ",
+            "title": "Entrepreneur",
+            "description": "Business Plan Structuring, Market and Growth Strategies.\nShort- and Long-Term Finance Management.\nHR Management and People Development.\nOperational Planning."
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2016
+            },
+            "company": "Rio 2016 - Comite Organizador dos Jogos Olimpicos e Paralimpicos",
+            "title": "Procurement Manager",
+            "description": "Purchase manager at Rio 2016 Organizing Committee. Responsible for some categories and approvals at the management committee.\nMain Purchasing Categories:\no Utility\no Employees and athlete\u2019s transportation\no Home Appliances\no Facilities\no Sports Equipment"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2015
+            },
+            "company": "EY",
+            "title": "Manager Project Management",
+            "description": "Main projects description: Structuring the purchasing department for a Brazilian company in Venezuela. Market diagnosis and strategy for instant meals product. Strategic Sourcing projects for categories of logistics, storage and indirect services for one of the largest producers of consumer goods in Brazil. PMO and development of pre-projects in the areas of demand generation, purchasing and logistics for a large wholesaler. Strategic Sourcing of raw materials for a chemical industry. Strategic Sourcing project for the main spending purchase categories, including freight and internal services for an agribusiness."
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2012
+            },
+            "company": "Webb Negocios",
+            "title": "Project Manager",
+            "description": "Mains projects description: Logistic sourcing for e-commerce company. Redesign the logistic network for a pharmaceutical industry. Development of a new remuneration method for logistics contracts. Strategic sourcing project for direct materials such as cast, machined, hydraulic, electrical and plastic parts in a heavy equipment company for agriculture. Supplier market assessment for a German heavy equipment company. Strategic sourcing project for a company in the education sector. Renegotiation of the main services contracts for a shopping mall chain. Development of a highly complex projects such as the analysis of the biomass market in Brazil to be used as an alternative energy source for a beverage industry."
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "field_of_study": "Project Management",
+            "degree_name": "MBA",
+            "school": "Fundacao Getulio Vargas"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1998
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2003
+            },
+            "field_of_study": "Business Administration",
+            "degree_name": "Bachelor",
+            "school": "EAESP - Fundacao Getulio Vargas"
+        }
+    ],
+    "languages": [
+        "English",
+        "Portuguese",
+        "Spanish"
+    ],
+    "accomplishment_courses": [
+        {
+            "name": "Agile Project Management with Scrum"
+        },
+        {
+            "name": "Data Science"
+        },
+        {
+            "name": "Harvard Manage Mentor"
+        },
+        {
+            "name": "Phyton Programming"
+        },
+        {
+            "name": "SQL"
+        },
+        {
+            "name": "Sommelier de Cervejas"
+        },
+        {
+            "name": "Tecnologia de Producao de Cervejas"
+        }
+    ],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2022
+            },
+            "ends_at": null,
+            "name": "SQL Impressionador",
+            "license_number": "2a1dc8468990843c5432d542c872e801"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2021
+            },
+            "ends_at": null,
+            "name": "Gestao Agil com SCRUM",
+            "license_number": "UC-5ada36d2-596a-498e-8dfc-e7c905487443"
+        }
+    ],
+    "skills": [
+        "Planejamento estrategico",
+        "Inteligencia de negocios (BI)",
+        "Empreendedorismo",
+        "Data Analysis",
+        "People Management",
+        "Coaching",
+        "People Development",
+        "Entrepreneurship",
+        "SQL",
+        "Supplier Development",
+        "Purchasing",
+        "Agile Project Management",
+        "Production Planning",
+        "E-procurement",
+        "Team Leadership",
+        "English",
+        "Process Automation",
+        "Business Intelligence (BI)",
+        "Supply Chain Optimization",
+        "IT Enabled Business Transformation"
+    ],
+    "gender": "male"
+}
