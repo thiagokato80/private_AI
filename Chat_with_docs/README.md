@@ -6,6 +6,11 @@
 ```
 pip install -r requirements.txt
 ```
+#### Para utilizar Gemini (não retornou informações dos documentos, procurou na internet)
+#### Também não conseguiu responder duas perguntas
+```
+pip install --upgrade --quiet  langchain-google-genai pillo
+```
 
 #### Models a serem utilizados (Meus testes foram feitos com Mistral, Llama2 e/ou Llama3)
 #### Caso não tenho o Ollama instalado -> https://ollama.ai
@@ -73,3 +78,6 @@ As extensões suportadas são:
 - `.json`: Json file (UTF-8),
 
 - testado com PDF, JSON e DOCX
+
+#### Inclusão de respostas de acordo com histórico de conversa, primeiros testes funcionaram
+#### Histórico de conversa se apaga ao finalizar
